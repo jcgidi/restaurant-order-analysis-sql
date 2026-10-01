@@ -1,5 +1,5 @@
 # Restaurant Order Analysis
-![Restaurant Orders](Pantalla.png)
+![Restaurant Orders](pantalla.png)
 
 SQL analysis of restaurant menu and order data using MySQL.
 
