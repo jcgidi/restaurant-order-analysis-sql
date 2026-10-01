@@ -34,4 +34,4 @@ Analyze menu pricing, order volume, category performance, and customer purchasin
 - Category composition of high-volume orders
 
 - ## Data Source
-Maven Analytics LEGO Sets dataset.
+Maven Analytics Restaurant Orders dataset.
